@@ -7,7 +7,7 @@ It is very simple, the key functions are
 [FindHamiltonianCycle](https://reference.wolfram.com/language/ref/FindHamiltonianCycle.html)
 and
 [Graph](https://reference.wolfram.com/language/ref/Graph.html).
-Evaluating the whole notebook in Mathematica should recreate the example output using the example input, which is the match data from Premier League season 2023-24 (up until 2023-11-06, which is when the earlest Hamiltonian cycle was completed).
+Evaluating the whole notebook in Mathematica recreates the example output. The example input is the match data from Premier League season 2023-24, up until 2023-11-06, which is when the earlest Hamiltonian cycle was completed.
 
 # Example output
 
