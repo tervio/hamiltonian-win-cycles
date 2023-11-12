@@ -8,3 +8,6 @@ All the code is in the nb-file. Evaluating the whole notebook in Mathematica sho
 
 ![Example Hamiltonian win cycle graph](https://github.com/tervio/hamiltonian-win-cycles/blob/main/output/eng-tier-1-2023-2024.svg?raw=true)
 Earliest Hamiltonian win cycles in the Premier League 2023-24 appeared on 11-06. There were 25, this is a random choice.
+
+Here is the part of the example input that ended up as part of the displayed Hamiltonian win cycle: 
+![View the CSV file](https://github.com/tervio/hamiltonian-win-cycles/blob/main/output/eng-tier-1-2023-2024.csv)
