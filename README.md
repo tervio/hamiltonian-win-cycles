@@ -3,10 +3,7 @@ Find and graphically illustrate a Hamiltonian cycle in a graph where wins are di
 A Hamiltonian win cycle is a closed loop that includes exactly one win by all teams in a league: A beat B beat C ... Z beat A.
 
 All the code is in the nb-file. 
-It is very simple, based on built-in functions  
-[FindHamiltonianCycle](https://reference.wolfram.com/language/ref/FindHamiltonianCycle.html)
-and
-[Graph](https://reference.wolfram.com/language/ref/Graph.html).
+It is very simple, based on built-in functions [FindHamiltonianCycle](https://reference.wolfram.com/language/ref/FindHamiltonianCycle.html) and [Graph](https://reference.wolfram.com/language/ref/Graph.html).
 Evaluating the whole notebook in Mathematica recreates the example output. The example input is the match data from Premier League season 2023-24, up until 2023-11-06, which is when the earlest Hamiltonian cycle was completed.
 
 # Example output
